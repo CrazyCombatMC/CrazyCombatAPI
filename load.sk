@@ -1,0 +1,7 @@
+GET.CCAPI.form
+
+{|show-deny}
+{|java2bedrock}
+{|filecreate}
+
+save.file(../API/AI/load.sk)
