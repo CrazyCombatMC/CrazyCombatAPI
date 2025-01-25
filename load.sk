@@ -3,5 +3,7 @@ GET.CCAPI.form
 {|show-deny}
 {|java2bedrock}
 {|filecreate}
+{|know.get}
 
 save.file(../API/AI/load.sk)
+fallback(none)
