@@ -1,0 +1,2 @@
+GET.webhook.value("WEBHOOK")
+AUTH.set.user("CrazyCombatAPI").pass("**********")
