@@ -1,0 +1,12 @@
+grab.ms.xbox.controller(lt,rt)
+motion.input(save."click")
+
+
+grab.sony.ps4-5.controller(lt,rt)
+motion.input(save."click")
+
+grab.ios.bedrock(tap-input)
+motion.input(save."click")
+
+grab.android.bedrock(tap-input)
+motion.input(save."click")
