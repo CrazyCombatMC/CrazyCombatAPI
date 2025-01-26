@@ -2,3 +2,5 @@ gen.image.bedrock(AI)
 
 carefor.scale{1,1,1}
 scale.reset(overhall)
+in(/input)
+out(/output)
