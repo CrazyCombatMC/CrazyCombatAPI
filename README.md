@@ -5,3 +5,8 @@ CrazyCombat offical rendering / data server / fall back and collaborater system
 
 - minecraft support
 - bedrock support for custom items
+
+
+#Join
+IP   CrazyCombat.enderman.cloud
+PORT    00000
