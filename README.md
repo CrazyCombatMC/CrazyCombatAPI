@@ -9,6 +9,6 @@ CrazyCombat offical rendering / data server / fall back and collaborater system
 
 # Join
 
-IP   CrazyCombat.enderman.cloud
+IP:  CrazyCombat.enderman.cloud
 
-PORT    00000
+PORT:  00000
