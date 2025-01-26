@@ -4,5 +4,5 @@ fallback.recive
 create.dataSVR.public("CCFallback")
 send.logfile.full(&&/%%/££)
 clear.logfile
-gen.token("*********")
+gen.token("***********")
 save.log
