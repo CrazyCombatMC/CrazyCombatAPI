@@ -5,5 +5,4 @@ create.dataSVR.public("CCFallback")
 send.logfile.full(&&/%%/££)
 clear.logfile
 gen.token("*********")
-
-(|safemode-true)
+save.log
