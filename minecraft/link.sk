@@ -1,2 +1,3 @@
 GET.webhook.value("WEBHOOK")
-AUTH.set.user("CrazyCombatAPI").pass("**********")
+AUTH.set.user("CrazyCombatAPI").pass("*********")
+login.reset.new(feedback-false)
