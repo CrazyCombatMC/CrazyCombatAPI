@@ -7,6 +7,7 @@ CrazyCombat offical rendering / data server / fall back and collaborater system
 - bedrock support for custom items
 
 
-#Join
+# Join
+
 IP   CrazyCombat.enderman.cloud
 PORT    00000
