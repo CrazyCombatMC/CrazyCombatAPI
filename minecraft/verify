@@ -1,0 +1,8 @@
+GET.id.verify(CC-API)
+
+(|Version: 7)
+(|backlog-false)
+(reset.pin-fasle)
+
+fallback(none)
+push.verify(../bedrock-gen/overhall)
