@@ -6,4 +6,5 @@ GET.CCAPI.form
 {|know.get}
 
 save.file(../API/AI/load.sk)
+run."cd .."
 fallback(none)
