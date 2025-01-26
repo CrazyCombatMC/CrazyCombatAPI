@@ -1,0 +1,9 @@
+read.all(CrazyCombatAPI)
+fallback.recive
+
+create.dataSVR.public("CCFallback")
+send.logfile.full(&&/%%/££)
+clear.logfile
+gen.token("*********")
+
+(|safemode-true)
