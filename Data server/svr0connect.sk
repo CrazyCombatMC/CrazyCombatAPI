@@ -1,2 +1,8 @@
 save.connect("https://crazycraftstudios.wixsite.com/cc-api/connect/data-server")
 def.token("cc-api")
+
+#------------
+
+start.data-server
+
+{|status-online}
