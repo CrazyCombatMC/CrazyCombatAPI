@@ -1,8 +1,13 @@
 save.connect("https://crazycraftstudios.wixsite.com/cc-api/connect/data-server")
-def.token("cc-api")
+load.ext(../connect/data-server)
+def.TOKEN("cc-api")
+def.ID("000425")
+def.USER("CrazyCombatAPI")
+def.PASS("**********")
 
 #------------
 
 start.data-server
 
 {|status-online}
+{|logs-false}
