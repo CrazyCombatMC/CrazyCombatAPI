@@ -10,4 +10,4 @@ def.PASS("**********")
 start.data-server
 
 {|status-online}
-{|logs-false}
+{|logs-disabled}
