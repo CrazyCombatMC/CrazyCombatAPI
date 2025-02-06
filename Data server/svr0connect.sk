@@ -8,6 +8,7 @@ def.PASS("**********")
 #------------
 
 start.data-server
+request.data-server.mc-link
 
 {|status-online}
 {|logs-disabled}
