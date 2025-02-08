@@ -1,5 +1,5 @@
 GET.CCAPI.form
-GET.github.artificial-intelligence
+GET.github(https://github.com/CrazyCombatMC/artificial-intelligence.git)
 
 {|show-deny}
 {|java2bedrock}
