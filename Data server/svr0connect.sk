@@ -12,3 +12,10 @@ request.data-server.mc-link
 
 {|status-online}
 {|logs-disabled}
+
+failed.recive.request(MC-link):
+  - end.all
+  - start.reroll.sync(@All)
+  - def.alert
+  - alert.send(USER:@YoThepro19,ID:none,msg:"losted data")
+  - `Finish`
