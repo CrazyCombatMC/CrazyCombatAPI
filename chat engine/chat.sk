@@ -1,0 +1,3 @@
+message.recive:
+  -save.conent(message,reciver,context)
+  -def.msg(new)
