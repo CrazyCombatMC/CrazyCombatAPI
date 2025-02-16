@@ -1,3 +1,5 @@
+![CC-API](https://i.imgur.com/ncK2EQU.png)
+
 # CrazyCombatAPI
 CrazyCombat offical rendering / data server / fall back and collaborater system
 
