@@ -1,4 +1,4 @@
-save.connect("https://crazycraftstudios.wixsite.com/cc-api/connect/data-server")
+save.connect("https://xstrstudios.wixsite.com/cc-api/connect/data-server")
 load.ext(../connect/data-server)
 def.TOKEN("cc-api")
 def.ID("000425")
