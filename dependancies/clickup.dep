@@ -1,0 +1,7 @@
+def.dependency("clickup")
+
+
+              clientID.api("********************************")
+              clientSECRET.api("****************************************************************")
+
+        push.NewTask@all
