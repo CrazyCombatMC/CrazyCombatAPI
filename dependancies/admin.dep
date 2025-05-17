@@ -1,0 +1,9 @@
+def.dependency(https://xstrstudios.wixsite.com/admin)
+
+
+              admin.pin("543579")
+
+        pin.reset
+
+
+=ver{0.5}  
