@@ -1,1 +1,5 @@
 def.dependency(com.minecraft/crazycombat)
+
+
+{plugins::cloud}
+{plugins::external}
