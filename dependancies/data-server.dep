@@ -4,3 +4,8 @@ def.dependency(https://xstrstudios.wixsite.com/cc-api/dependency/download)
               run.data-server("grab")
 
         grab --dependency --all
+
+
+
+track,(player,movement,location):
+  -pkg all
