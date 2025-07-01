@@ -12,6 +12,7 @@ request.data-server.mc-link
 
 {|status-online}
 {|logs-disabled}
+{|"motion.play"-enable}
 
 failed.recive.request(MC-link):
   - end.all
